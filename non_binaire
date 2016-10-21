@@ -1,0 +1,3 @@
+s=''
+for i in input(): s+=str((int(i)+1)%2)
+print(s)
